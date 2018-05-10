@@ -19,3 +19,14 @@ C:\Users\Admin\Desktop\nhóm5\WindowsFormsApplication2\obj\Debug\WindowsFormsApp
 C:\Users\Admin\Desktop\nhóm5\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 C:\Users\Admin\Desktop\nhóm5\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 C:\Users\Admin\Desktop\nhóm5\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Desktop\quanlikachsan\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
